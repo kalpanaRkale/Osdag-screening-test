@@ -1,6 +1,6 @@
 ## Description
 
-The Steel Structure Analysis Software is a web-based application that allows engineers and designers to create and analyze steel structures. The software will provide a user-friendly interface for creating, designing, and analyzing steel structures.
+The software is a web-based application that allows engineers and designers to create and analyze steel structures. The software will provide a user-friendly interface for creating, designing, and analyzing steel structures.
 
 ## Features
 
